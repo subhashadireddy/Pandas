@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Amit",
+        "age": 21,
+        "city": "Hyderabad",
+        "score": 78
+    },
+    {
+        "id": 2,
+        "name": "Ravi",
+        "age": 22,
+        "city": "Chennai",
+        "score": 85
+    },
+    {
+        "id": 3,
+        "name": "Sneha",
+        "age": 20,
+        "city": "Bangalore",
+        "score": 90
+    },
+    {
+        "id": 4,
+        "name": "Arjun",
+        "age": 23,
+        "city": "Mumbai",
+        "score": 76
+    },
+    {
+        "id": 5,
+        "name": "Pooja",
+        "age": 21,
+        "city": "Delhi",
+        "score": 88
+    },
+    {
+        "id": 6,
+        "name": "Kiran",
+        "age": 24,
+        "city": "Pune",
+        "score": 69
+    },
+    {
+        "id": 7,
+        "name": "Neha",
+        "age": 22,
+        "city": "Kolkata",
+        "score": 91
+    },
+    {
+        "id": 8,
+        "name": "Varun",
+        "age": 23,
+        "city": "Ahmedabad",
+        "score": 73
+    },
+    {
+        "id": 9,
+        "name": "Divya",
+        "age": 20,
+        "city": "Jaipur",
+        "score": 84
+    },
+    {
+        "id": 10,
+        "name": "Rahul",
+        "age": 25,
+        "city": "Surat",
+        "score": 67
+    },
+    {
+        "id": 11,
+        "name": "Meena",
+        "age": 21,
+        "city": "Visakhapatnam",
+        "score": 92
+    },
+    {
+        "id": 12,
+        "name": "Ajay",
+        "age": 22,
+        "city": "Indore",
+        "score": 74
+    },
+    {
+        "id": 13,
+        "name": "Swathi",
+        "age": 23,
+        "city": "Nagpur",
+        "score": 89
+    },
+    {
+        "id": 14,
+        "name": "Manoj",
+        "age": 24,
+        "city": "Bhopal",
+        "score": 71
+    },
+    {
+        "id": 15,
+        "name": "Lakshmi",
+        "age": 20,
+        "city": "Coimbatore",
+        "score": 95
+    },
+    {
+        "id": 16,
+        "name": "Vikram",
+        "age": 25,
+        "city": "Mysore",
+        "score": 66
+    },
+    {
+        "id": 17,
+        "name": "Anjali",
+        "age": 22,
+        "city": "Trivandrum",
+        "score": 87
+    },
+    {
+        "id": 18,
+        "name": "Suresh",
+        "age": 23,
+        "city": "Patna",
+        "score": 72
+    },
+    {
+        "id": 19,
+        "name": "Kavya",
+        "age": 21,
+        "city": "Chandigarh",
+        "score": 93
+    },
+    {
+        "id": 20,
+        "name": "Ramesh",
+        "age": 24,
+        "city": "Lucknow",
+        "score": 68
+    }
+]
